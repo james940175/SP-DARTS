@@ -1,1 +1,1 @@
-# SP-DARTS
+# SP-DARTS: Soft Pruning Differentiable Architecture Search
