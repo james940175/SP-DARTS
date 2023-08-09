@@ -7,5 +7,5 @@ This project aims to solve the problems of Differentiable Architecture Search by
 
 ### Search and Test Model:
 
-    python3 train.py --dataset {cifar10/cifar100/imagenet16-120}              \ 
-                     --method {SP-DARTS/SRP-DARTS}
+    python3 train_search.py --dataset {cifar10/cifar100/imagenet16-120}              \ 
+                            --method {SP-DARTS/SRP-DARTS}
